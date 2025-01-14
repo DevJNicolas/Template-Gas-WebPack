@@ -9,7 +9,6 @@ const outName = 'Code.js';
 
 module.exports = {
     mode: "development",
-    context: outDir,
     entry,
     output: {
         path: outDir,
